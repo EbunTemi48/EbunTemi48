@@ -19,7 +19,8 @@ My skills include:
  I'm currently looking for internships or entry-level opportunities to kickstart my career.
 
   You can reach out to me via Social:
-  [LinkedIn] [linkedin.com/in/gifted-ajamu]
+  [LinkedIn](linkedin.com/in/gifted-ajamu)
+  [X](https://x.com/GiftedAjamu)
 <!---
 EbunTemi48/EbunTemi48 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
